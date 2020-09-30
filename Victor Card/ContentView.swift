@@ -16,7 +16,7 @@ struct ContentView: View {
             .edgesIgnoringSafeArea(.all)
             
             VStack {
-    
+    //comentario
                 Image("VictorPhoto")
                     .resizable()
                     .aspectRatio(contentMode: .fit)
